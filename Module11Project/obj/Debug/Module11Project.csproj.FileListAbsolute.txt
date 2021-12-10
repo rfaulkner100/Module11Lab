@@ -1,0 +1,10 @@
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\bin\Debug\Module11Project.exe
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\bin\Debug\Module11Project.pdb
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.AssemblyReference.cache
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.frmXmenFirstClass.resources
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.Properties.Resources.resources
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.GenerateResource.cache
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.CoreCompileInputs.cache
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+C:\Users\bocoh\source\repos\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
